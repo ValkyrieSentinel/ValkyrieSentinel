@@ -1,16 +1,16 @@
-## Hi there 👋
+### ValkyrieSentinel
 
-<!--
-**ValkyrieSentinel/ValkyrieSentinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solo kernel developer, systems engineer, and security researcher. 
 
-Here are some ideas to get you started:
+- **Stack:** Rust, Zig, C/C++, Assembler, Ada, FPGA
+- **Systems:** Linux, Gentoo, eBPF, Nix
+- **Focus:** Low-level architecture, reverse engineering, and resilience modeling.
+- **Interests:** Robotics, quantum systems, kinematics, and cybernetics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Connect
+
+- **Email:** valkyriesentinel@gmail.com
+- **Telegram:** @Helga_Architect88
+
