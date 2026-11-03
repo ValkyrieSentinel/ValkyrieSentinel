@@ -30,7 +30,7 @@ I build high-performance, low-level systems where the cost of failure is too hig
 
 ####  Availability:
 I work as an independent expert (Freelance / B2B Contract). 
-If you have a "hair-on-fire" task involving optimization, eBPF, FFI, compilers, or systems security — I can jump in and solve it.
+If you have a "hair-on-fire" task involving optimization, eBPF, FFI, compilers, or systems security , I can jump in and solve it.
 
  **Contact:** valkyriesentinel@gmail.com  
  **GitHub:** github.com/ValkyrieSentinel
